@@ -1,15 +1,11 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 /**
- * main - main function
- *
- * return: always (0)
+ * main - print alpha inlower and upper case
+ * Return: Always 0
  */
 int main(void)
 {
-
 	char (i);
 	for (i = 'a'; i <= 'z'; i++)
 		putchar(i);
