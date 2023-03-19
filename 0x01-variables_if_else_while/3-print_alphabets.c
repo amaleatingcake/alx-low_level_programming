@@ -3,11 +3,10 @@
 #include <time.h>
 
 /**
- * main - main funtion
+ * main - main function
  *
- * return always (0)
+ * return: always (0)
  */
-
 int main(void)
 {
 
